@@ -11,6 +11,7 @@
 
 ; TODO: Spec everything
 ; TODO: Add a proper logging library, get rid of printlns
+; TODO: Externalize layer definition, make runtime-loadable, configurable
 
 ; TODO: Move global regions stuff elsewhere
 
